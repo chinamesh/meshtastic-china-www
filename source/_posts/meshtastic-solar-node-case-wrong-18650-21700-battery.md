@@ -2,7 +2,7 @@
 title: 折腾太阳能节点的奇妙旅程
 date: 2025-01-25 15:23:00
 thumbnail: /meshtastic-solar-node-case-wrong-18650-21700-battery/meshtastic-node-internal-view-banner.webp
-description: "新手也能轻松上手！这篇文章手把手教你如何用简单的材料和工具构建一个 Meshtastic 太阳能节点。通过详细的步骤和贴心的讲解，即使没有技术背景，你也能快速完成一个自给自足的无线通信设备，为户外或偏远地区的 Meshtastic 网络提供稳定支持。"
+description: "当 18650 电池不听话，当电池盒频频「搞事情」，佛系白猫的 DIY Meshtastic 节点让人捧腹大笑又深感敬佩。这篇文章记录了他的探索历程，展示了 MPPT 模块的威力和 DIY 的乐趣，甚至连厨房烟罩都成了他焊接的好帮手。"
 categories:
  - 案例
 tags:
@@ -116,12 +116,4 @@ DIY 真是让人又爱又恨！
 
 如果你也有类似的有趣故事，欢迎 MeshCN 中国社区[投稿分享](/meshcn-blog-call-for-articles/)！我们非常期待看到更多充满个性和创造力的 DIY 作品。
 
-[加入 Meshtastic 中国社区微信群](/contact/)：和其他用户一起探索更多可能性！
-
-
-
-
-
-
-
-
+欢迎 [加入 Meshtastic 中国社区微信群](/contact/)，和其他用户一起探索更多可能性！
