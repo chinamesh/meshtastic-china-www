@@ -1,7 +1,7 @@
 ---
 title: T114 杀手？焊武帝 35 块 DIY nRF52 Meshtastic 节点
 date: 2025-01-09 10:43:00
-thumbnail: https://meshcn.net/meshtastic-diy-nrf52840-lora-sx1262-setup/completed-wiring-ra62-promicro-nrf52840-banner.webp
+thumbnail: /meshtastic-diy-nrf52840-lora-sx1262-setup/completed-wiring-ra62-promicro-nrf52840-banner.webp
 description: "想自己动手打造一个低功耗、远距离通信的 Meshtastic 节点，却被复杂的飞线和刷固件步骤劝退？别担心！这篇文章带你从零开始，焊接电路、刷入固件、配置设备，全程详解。如果你对 DIY LoRa 网络感兴趣，或者想让户外节点稳定运行，又不确定从哪开始，这篇文章一定让你满载而归。"
 author:
   name: "重庆-BG8HVK | 社区群成员"

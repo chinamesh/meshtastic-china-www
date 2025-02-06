@@ -15,8 +15,8 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://meshcn.net
-root: /
+url: <%= process.env.HEXO_URL || 'https://chinamesh.github.io' %>
+root: <%= process.env.HEXO_ROOT || '/meshtastic-china-www/' %>
 permalink: /:title/
 permalink_defaults:
 pretty_urls:

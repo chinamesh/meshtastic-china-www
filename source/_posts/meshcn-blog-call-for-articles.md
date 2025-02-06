@@ -2,7 +2,7 @@
 title: MeshCN 社区博客征稿啦！
 date: 2025-01-02 16:39:20
 description: "征稿啦，快来参与，让你的分享启发更多社区伙伴！本文介绍了社区对稿件内容的需求，包括硬件测评、案例分享等热门主题，同时提供了投稿方式和示例参考。无论是初稿还是完整稿件，都可以通过邮件或 GitHub 提交，共同丰富 Meshtastic 的知识库，展示你的经验和智慧。"
-thumbnail: https://meshcn.net/meshcn-blog-call-for-articles/jan-kahanek-fVUl6kzIvLg-unsplash.webp
+thumbnail: /meshcn-blog-call-for-articles/jan-kahanek-fVUl6kzIvLg-unsplash.webp
 categories:
  - 公告
 tags:

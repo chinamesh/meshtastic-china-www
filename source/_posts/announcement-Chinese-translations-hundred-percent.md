@@ -2,7 +2,7 @@
 title: 让 Meshtastic 更贴近中文社区
 date: 2024-12-11 11:22:00
 description: "Meshtastic 安卓应用的简体中文翻译现已完成 100%！"
-thumbnail: https://meshcn.net/announcement-Chinese-translations-hundred-percent/jefferson-santos-9SoCnyQmkzI-unsplash.webp
+thumbnail: /announcement-Chinese-translations-hundred-percent/jefferson-santos-9SoCnyQmkzI-unsplash.webp
 categories:
  - 公告
 ---

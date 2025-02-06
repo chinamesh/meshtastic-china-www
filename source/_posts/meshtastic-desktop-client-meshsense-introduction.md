@@ -1,7 +1,7 @@
 ---
 title: MeshSense：填补 Meshtastic 桌面端空白的利器
 date: 2025-01-04 12:30:20
-thumbnail: https://meshcn.net/meshtastic-desktop-client-meshsense-introduction/postspark_export_2025-01-02_19-09-47.webp
+thumbnail: /meshtastic-desktop-client-meshsense-introduction/postspark_export_2025-01-02_19-09-47.webp
 description: 填补 Meshtastic 桌面端空白的神器登场！MeshSense 是一款全功能开源 Meshtastic 桌面客户端，支持 Windows、Linux 和 Mac，为网络管理提供强大助力。动态地图、消息提醒、多平台兼容性、蓝牙与 WiFi 连接，全方位提升用户体验。
 categories:
  - 评测
