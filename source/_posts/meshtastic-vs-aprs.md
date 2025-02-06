@@ -69,4 +69,4 @@ APRS 社区里有许多现成的第三方服务，比如可以转发 APRS 消息
 
 虽然目前 Meshtastic 仍缺少像 APRS 那样成熟丰富的第三方服务（例如 Email、SMS 网关等），但凭借其开源、低成本、加密与免执照的特点，加之易用的移动端操作界面，已经在全球各地快速发展，为广大无线电及通信爱好者提供了一种更灵活、易用的社区型自组网解决方案。
 
-如果你正在研究 APRS，也不妨看看 Meshtastic。在 Meshtastic 中国社区（[MeshCN.net](https://meshtastic.org)）你可以找到更多中文资料、教程和爱好者分享，相信这会为你的无线通信体验带来不一样的惊喜。
+如果你正在研究 APRS，也不妨看看 Meshtastic。在 Meshtastic 中国社区（[MeshCN.net](https://meshcn.net)）你可以找到更多中文资料、教程和爱好者分享，相信这会为你的无线通信体验带来不一样的惊喜。
