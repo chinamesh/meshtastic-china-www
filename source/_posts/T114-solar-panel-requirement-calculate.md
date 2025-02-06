@@ -1,7 +1,7 @@
 ---
 title: 太阳能 Meshtastic 节点：自带太阳能接口 vs MPPT？太阳能板规格如何选？
 date: 2024-12-29 23:37:20
-thumbnail: https://meshcn.net/T114-solar-panel-requirement-calculate/this-is-how-we-roll-in-the-open-source-country-v0-o5eee8ithnoc1-compressed.webp
+thumbnail: /T114-solar-panel-requirement-calculate/this-is-how-we-roll-in-the-open-source-country-v0-o5eee8ithnoc1-compressed.webp
 description: "以 Heltec T114 为案例，探讨如何构建高效的太阳能供电节点，重点比较了 T114 默认太阳能输入接口与 MPPT 控制器的效率差异，并通过实验数据证明，MPPT 控制器在性能和能量转化效率上显著优于默认接口，适合高效能需求。文章还详细计算了为不同输入方式选择太阳能板功率的科学方法，结合设备能耗、日照时间和冗余设计，得出推荐规格。"
 categories:
  - 教程

@@ -1,7 +1,7 @@
 ---
 title: 三大 Meshtastic 新手常见错误
 date: 2024-12-19 13:12:20
-thumbnail: https://meshcn.net/beginner-3-common-mistake/francisco-de-legarreta-c-hHg9MC-G8_Y-unsplash.webp
+thumbnail: /beginner-3-common-mistake/francisco-de-legarreta-c-hHg9MC-G8_Y-unsplash.webp
 description: 最常犯的三大低级错误：碎屏、电池插反、以及没有天线的情况下开机
 categories:
  - 教程

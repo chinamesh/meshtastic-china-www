@@ -2,7 +2,7 @@
 title: 2024 的 Meshtastic 中国社区：搞笑、有料、充满创意
 date: 2024-12-31 15:46:00
 description: "新年快乐！2024 年，Meshtastic 中国社区从 70 人飞速增长到 140+。从非洲农场到焊武帝飞线艺术，社区不仅推动了无线通信技术的普及，还创造了众多 DIY 奇迹。回顾高光时刻，展望 2025，让我们一起用信号和焊锡连接梦想，Mesh On！"
-thumbnail: https://meshcn.net/announcement-2024-last-day-annual/kelly-sikkema-XQG-l15ntNk-unsplash.webp
+thumbnail: /announcement-2024-last-day-annual/kelly-sikkema-XQG-l15ntNk-unsplash.webp
 categories:
  - 公告
 tags:

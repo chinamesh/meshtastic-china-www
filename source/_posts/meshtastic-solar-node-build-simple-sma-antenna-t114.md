@@ -1,7 +1,7 @@
 ---
 title: 快来抄作业！我的极简 Meshtastic 太阳能节点
 date: 2025-01-15 18:58:00
-thumbnail: https://meshcn.net/meshtastic-solar-node-build-simple-sma-antenna-t114/meshtastic-solar-t114-simple-build-interior-compressed.webp
+thumbnail: /meshtastic-solar-node-build-simple-sma-antenna-t114/meshtastic-solar-t114-simple-build-interior-compressed.webp
 description: "新手也能轻松上手！这篇文章手把手教你如何用简单的材料和工具构建一个 Meshtastic 太阳能节点。通过详细的步骤和贴心的讲解，即使没有技术背景，你也能快速完成一个自给自足的无线通信设备，为户外或偏远地区的 Meshtastic 网络提供稳定支持。"
 categories:
  - 案例
