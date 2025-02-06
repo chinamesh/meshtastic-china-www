@@ -31,7 +31,7 @@ jobs:
         run: npm install
       - name: Set environment variables
         env:
-          HEXO_URL: ${{ secrets.HEXO_URL || 'https://chinamesh.github.io' }}
+          HEXO_URL: ${{ secrets.HEXO_URL || 'https://chinamesh.github.io/meshtastic-china-www' }}
           HEXO_ROOT: ${{ secrets.HEXO_ROOT || '/meshtastic-china-www/' }}
       - name: Build
         run: npm run build
