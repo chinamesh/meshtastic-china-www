@@ -1,7 +1,7 @@
 ---
 title: 无线更新 nRF 固件：Meshtastic 蓝牙 OTA 指南
 date: 2025-01-06 19:42:20
-thumbnail: https://meshcn.net/bluetooth-ota-nrf52-meshtastic-tutorial/iOS-Meshtastic-OTA-bluetooth-nRF52-banner-small.webp
+thumbnail: /bluetooth-ota-nrf52-meshtastic-tutorial/iOS-Meshtastic-OTA-bluetooth-nRF52-banner-small.webp
 description: "还在爬高上低用 USB 数据线更新设备吗？蓝牙 OTA 更新 nRF52 Meshtastic 设备绝对是解放双手的神器！特别是当你的 nRF52 设备装在屋顶、树上时，无线 OTA 让你不费吹灰之力即可完成固件升级。"
 categories:
  - 教程

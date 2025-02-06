@@ -1,7 +1,7 @@
 ---
 title: How to Connect the EByte E108-GN03D GPS Module to the EByte EoRa-S3 Board
 date: 2024-12-07 16:01:20
-thumbnail: https://meshcn.net/gps-module-ebyte-eora-s3-CN/EoRa-S3-gps-Ebyte.webp
+thumbnail: /gps-module-ebyte-eora-s3-CN/EoRa-S3-gps-Ebyte.webp
 description: A step-by-step guide to connect the EByte E108-GN03D GPS module to the EByte EoRa-S3 development board with Meshtastic firmware. Display GPS data (latitude, longitude, and altitude) on your Meshtastic device.
 categories:
  - 教程

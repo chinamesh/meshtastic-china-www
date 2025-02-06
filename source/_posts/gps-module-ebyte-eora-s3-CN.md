@@ -1,7 +1,7 @@
 ---
 title: 如何将 EByte E108-GN03D GPS 模块连接到 EByte EoRa-S3 开发板  
 date: 2024-12-07 16:37:20
-thumbnail: https://meshcn.net/gps-module-ebyte-eora-s3-CN/EoRa-S3-gps-Ebyte.webp
+thumbnail: /gps-module-ebyte-eora-s3-CN/EoRa-S3-gps-Ebyte.webp
 description: 本文提供将 EByte E108-GN03D GPS 模块连接到 EByte EoRa-S3 开发板并运行 Meshtastic 固件的详细教程。完成后，GPS 模块将能够将位置信息（经度、纬度和海拔）显示在 Meshtastic 设备的 OLED 屏幕上。  
 categories:  
  - 教程  

@@ -1,7 +1,7 @@
 ---
 title: 利用 OpenWRT 和 USB/IP 实现远程管理更新 Meshtastic 节点
 date: 2024-12-25 20:42:00
-thumbnail: https://meshcn.net/remote-management-meshtastic-openwrt-usbip/stephen-phillips-hostreviews-co-uk-tN344soypQM-unsplash.webp
+thumbnail: /remote-management-meshtastic-openwrt-usbip/stephen-phillips-hostreviews-co-uk-tN344soypQM-unsplash.webp
 description: 利用 OpenWRT 路由器和 USB/IP 技术实现对偏远地区 Meshtastic 节点的远程管理。通过现有的互联网接入，OpenWRT 路由器为节点提供供电，并通过 USB/IP 将节点接口虚拟化，用户可以在远程轻松完成固件更新和配置调整。该方案特别适合难以触及的偏远地区、应急救援中的通信网络部署以及长期无人值守的节点管理。文章结合详细的流程图和社区实践，展示了这一方法的高效性、可扩展性和实际应用潜力。
 categories:
  - 案例

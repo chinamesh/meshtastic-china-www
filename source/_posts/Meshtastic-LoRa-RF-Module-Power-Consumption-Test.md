@@ -1,7 +1,7 @@
 ---
 title: 用功耗数据说话：三款 LoRa 模块在 Meshtastic 中的真实表现
 date: 2025-01-19 14:12:20
-thumbnail: https://meshcn.net/Meshtastic-LoRa-RF-Module-Power-Consumption-Test/meshtastic_lora_modules_comparison_sx1268_400MM22S_400M22S_banner.jpg
+thumbnail: /Meshtastic-LoRa-RF-Module-Power-Consumption-Test/meshtastic_lora_modules_comparison_sx1268_400MM22S_400M22S_banner.jpg
 description: "Meshtastic 设备的长续航离不开功耗优化。这篇文章测试并对比了硅传 SX1268、亿佰特 E22 400MM22S 和 E22 400M22S 三款 LoRa 模块的功耗表现，为设备配置和节点优化提供了实用数据参考。"
 author:
   name: "Yuri_su | 广州社区成员"

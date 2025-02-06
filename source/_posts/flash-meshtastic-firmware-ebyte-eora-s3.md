@@ -1,7 +1,7 @@
 ---
 title: 如何烧录 Meshtastic 固件到 Ebyte EoRa-S3-400TB
 date: 2024-11-26 11:15:20
-thumbnail: https://meshcn.net/flash-meshtastic-firmware-ebyte-eora-s3/meshtastic-flasher-screeenshot.webp
+thumbnail: /flash-meshtastic-firmware-ebyte-eora-s3/meshtastic-flasher-screeenshot.webp
 description: 
 categories:
  - 教程

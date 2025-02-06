@@ -1,7 +1,7 @@
 ---
 title: 手搓定位模块：生死看淡，价格砍半
 date: 2025-01-10 10:31:00
-thumbnail: https://meshcn.net/self-made-mesh-node-t114-gps-module/t114-diy-gps-front-back-merge-compressed.webp
+thumbnail: /self-made-mesh-node-t114-gps-module/t114-diy-gps-front-back-merge-compressed.webp
 description: "谁说好用的 GNSS 模块一定贵？看完这篇文章你会发现，官方 60 到 70 块的溢价，其实 20 块就能搞定！省下来的钱能多吃两顿沙县了，简直是省钱党的福音。还等什么？赶紧 DIY，保护钱包！"
 author:
   name: "西安-QinlingMesh"

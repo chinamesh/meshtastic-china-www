@@ -1,7 +1,7 @@
 ---
 title: Meshtastic 常用工具
 date: 2024-11-28 17:40:00
-thumbnail: https://meshcn.net/common-tools/nina-mercado-e9YFrEBWit8-unsplash.webp
+thumbnail: /common-tools/nina-mercado-e9YFrEBWit8-unsplash.webp
 description: 本文介绍了几款用于 Meshtastic 网络构建和管理的实用工具，包括节点地图、固件刷写工具、信号覆盖规划工具等，帮助新手快速上手并优化无线 Mesh 网络的搭建与维护。
 categories:
  - 教程

@@ -1,7 +1,7 @@
 ---
 title: Meshtastic 设备时间显示不正确的解决方案
 date: 2024-12-06 19:26:20
-thumbnail: https://meshcn.net/meshtastic-wrong-time-change-time-zone/wrong-time-zone-meshtastic.webp
+thumbnail: /meshtastic-wrong-time-change-time-zone/wrong-time-zone-meshtastic.webp
 description: 通过正确设置时区格式，解决 Meshtastic 设备上时间显示错误的问题的详细指南
 categories:
  - Meshtastic

@@ -2,7 +2,7 @@
 title: 入门指南
 date: 2024-11-26 17:45:20
 description: 
-thumbnail: https://meshcn.net/introduction/nick-fewings-lirOPuejTbM-unsplash.webp
+thumbnail: /introduction/nick-fewings-lirOPuejTbM-unsplash.webp
 categories:
  - 教程
 tags:
