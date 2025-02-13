@@ -1,7 +1,7 @@
 ---
 title: 如何为你的 Meshtastic 节点添加键盘
 date: 2025-02-13 12:03:20
-thumbnail: /how-to-add-keyboard-to-your-meshtastic-node/sergi-kabrera-2xU7rYxsTiM-unsplash.webp
+thumbnail: https://meshcn.net/how-to-add-keyboard-to-your-meshtastic-node/sergi-kabrera-2xU7rYxsTiM-unsplash.webp
 description: "学习如何轻松将 M5Stack CardKB 键盘集成到您的 Meshtastic 节点，将其变成一个独立的通信设备。按照详细的步骤指南，并根据不同的 Meshtastic 设备进行适配。立即开始在您的节点上输入并发送消息吧！"
 categories:
  - 教程
