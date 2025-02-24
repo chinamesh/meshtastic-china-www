@@ -1,7 +1,7 @@
 ---
 title: fakeTec：Heltec V3 的开源平替，低成本、长续航的 Meshtastic DIY 方案
 date: 2025-02-24 12:25:00
-thumbnail: /what-is-fakeTec-opensource-diy-meshtastic-project/fakeTec-v4-pcb-front-back-side-view.webp
+thumbnail: http://meshcn.net/what-is-fakeTec-opensource-diy-meshtastic-project/fakeTec-v4-pcb-front-back-side-view.webp
 description: "如果你是 Meshtastic 玩家，肯定听说过 Heltec V3，但它的高功耗问题总让人头疼。现在有了 fakeTec，一个低成本、低功耗的 DIY 替代方案！fakeTec 完全开源，所有设计文件都公开，DIY 爱好者可以自由改造和优化！"
 categories:
  - 教程
