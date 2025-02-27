@@ -6,10 +6,8 @@ description: "Meshtastic 2.6 预览版正式发布，带来了全新的 Meshtast
 categories:
  - 原理
 tags:
- - 入门系列
- - 加密
- - 私钥
- - 公钥
+ - 更新
+ - fancyUI
 ---
 
 > 以下内容翻译自 Meshtastic 官方博客文章《Meshtastic 2.6 Preview: MUI and Next-Hop Routing are here!》。有兴趣的读者可以阅读 [原文](https://meshtastic.org/blog/meshtastic-2-6-preview/)。
