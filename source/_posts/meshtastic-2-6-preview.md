@@ -12,7 +12,7 @@ tags:
 
 > 以下内容翻译自 Meshtastic 官方博客文章《Meshtastic 2.6 Preview: MUI and Next-Hop Routing are here!》。有兴趣的读者可以阅读 [原文](https://meshtastic.org/blog/meshtastic-2-6-preview/)。
 
-Meshtastic 2.6 预览版来了！这次更新历时 1.5 年，带来了我们全新的独立设备用户界面——Meshtastic UI（简称 MUI）。此外，我们还推出了一种全新的点对点消息（Direct Messages，DM）路由算法，提升消息传输效率。当然，还有更多惊喜等你发现！我们对这个版本充满期待，这可能是自 2022 年 11 月 Meshtastic 2.0 发布以来，功能最丰富的一次更新。欢迎大家体验并给我们反馈！
+新版本 Meshtastic 2.6 预览版来了！这次更新历时 1.5 年，带来了我们全新的独立设备用户界面——Meshtastic UI（简称 MUI）。此外，我们还推出了一种全新的点对点消息（Direct Messages，DM）路由算法，提升消息传输效率。当然，还有更多惊喜等你发现！我们对这个版本充满期待，这可能是自 2022 年 11 月 Meshtastic 2.0 发布以来，功能最丰富的一次更新。欢迎大家体验并给我们反馈！
 
 ## 什么是“预览版”？
 
@@ -41,6 +41,10 @@ Meshtastic 2.6 预览版来了！这次更新历时 1.5 年，带来了我们全
 ### Meshtastic UI（MUI）：独立设备的全新体验
 
 历经一年的开发（期间还经历了重大工具链变更），我们终于推出了 Meshtastic UI（MUI）预览版！MUI 是为独立 Meshtastic 设备打造的新界面，提供完整的触摸屏体验，让你无需手机即可操作 Meshtastic 网络。
+
+![Meshtastic 新 UI（曾称为 fancyUI）在 Lilygo T-Deck 运行效果](./meshtastic-2-6-preview/lilygo-t-deck-meshtastic-ui.webp)
+
+这个 UI 在过去曾被称为 fancyUI，社区成员曾经写过[文章讲述如何烧录 fancyUI 到 Lilygo T-Deck 尝鲜](/flash-meshtastic-t-deck-fancy-UI/)。Lilygo T-Deck 是一个外观灵感来自黑莓手机的酷炫产品，带有小物理键盘、轨迹球以及 LoRa 通信能力。
 
 该项目投入了 12 个月的开发，编写了 12,000 行手写代码和 50,000 行自动生成代码，并成功移植到 10 款不同设备上。此外，MUI 已被翻译成 18 种语言，让全球用户都能轻松使用。
 
