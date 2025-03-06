@@ -95,6 +95,9 @@ GNSS 设备常见的痛点之一是首次定位时间过长，而 Heltec Wireles
 3. 选择设备型号 Heltec Wireless Tracker V1.1。
 4. 选择标记为最新 Stable (Beta) 的 Meshtastic 固件，点击 Flash，等待刷写完成。
 
+![Meshtastic Web Flasher for flashing Heltec Wireless Tracker v1.1 firmware](./best-lora-device-for-beginners-heltec-wireless-tracker-review/Meshtastic-web-flasher-heltec-wireless-tracker-v-1-1.webp)
+
+
 刷写完成后，设备会自动重启，并进入 Meshtastic 网络。
 
 
