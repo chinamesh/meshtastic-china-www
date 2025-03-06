@@ -1,7 +1,7 @@
 ---
 title: 【大更新】Meshtastic 2.6 预览版：MUI 和Next-Hop路由正式登场！
 date: 2025-02-27 15:37:00
-thumbnail: 
+thumbnail: https://meshcn.net/meshtastic-2-6-preview/2_6_Social_Preview.webp
 description: "Meshtastic 2.6 预览版正式发布，带来了全新的 Meshtastic UI（MUI），提供独立设备的触摸屏操作体验，同时引入“Next-Hop”路由算法，优化点对点消息传输效率。此外，还新增 InkHUD 电子墨水屏界面、LAN（UDP）支持、优化 LoRa 时隙计算等多项改进。本篇文章详细介绍了 2.6 版本的主要功能及更新亮点，欢迎 Meshtastic 爱好者尝鲜体验并提供反馈！"
 categories:
  - 原理
